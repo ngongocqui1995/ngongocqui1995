@@ -34,36 +34,40 @@ My name is Ngo Ngoc Qui. I am Bachelor of Engineering in Computer Science, major
 
 <a href="https://github.com/ngongocqui1995/api-voucher">
   <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=api-voucher&theme=synthwave" />
-</a>    
+</a>
+
+<a href="https://github.com/ngongocqui1995/hotel-admin">
+  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=hotel-admin&theme=highcontrast" />
+</a>
 
 <a href="https://github.com/ngongocqui1995/ANXIEMO">
-  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=ANXIEMO&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=ANXIEMO&theme=dracula" />
 </a>
 
 <a href="https://github.com/ngongocqui1995/vegabank">
-  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=vegabank&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=vegabank&theme=radical" />
 </a>    
 
 <a href="https://github.com/ngongocqui1995/BACKEND_BANK">
-  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=BACKEND_BANK&theme=radical" />
+  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=BACKEND_BANK&theme=merko" />
 </a>
 
 <a href="https://github.com/ngongocqui1995/web-thue-nha">
-  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=web-thue-nha&theme=merko" />
+  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=web-thue-nha&theme=gruvbox" />
 </a>    
 
 <a href="https://github.com/ngongocqui1995/chatslim">
-  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=chatslim&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=chatslim&theme=dark" />
 </a>
 
 <a href="https://github.com/ngongocqui1995/free-rice-database">
-  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=free-rice-database&theme=dark" />
+  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=free-rice-database&theme=onedark" />
 </a>    
 
 <a href="https://github.com/ngongocqui1995/free-rice-api">
-  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=free-rice-api&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=free-rice-api&theme=cobalt" />
 </a>
 
 <a href="https://github.com/ngongocqui1995/free-rice-admin">
-  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=free-rice-admin&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-120.vercel.app/api/pin/?username=ngongocqui1995&repo=free-rice-admin&theme=synthwave" />
 </a>    
